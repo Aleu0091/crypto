@@ -1,0 +1,10 @@
+{
+    "name": "crypto",
+    "version": "1.0.1",
+    "main": "./crypto.js",
+    "author": "aleu0091",
+    "license": "MIT",
+    "dependencies": {
+        "crypto-js": "^4.2.0",
+    }
+}
